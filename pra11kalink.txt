@@ -1,0 +1,4 @@
+first run the code and past this link
+
+
+/ws/currency/convert?from=USD&to=INR&amount=100
